@@ -2,6 +2,15 @@
 #### -  Flipping and blurring an img by detecting faces using OpenCV and Python.   
 
  ---
+
+- #### **Project Overview: Face Recognition and Gaussian Blur Processing using OpenCV**
+  >This project focuses on utilizing OpenCV to detect faces in an image and applying Gaussian blur to achieve a smooth effect on the facial regions. The primary goal is to identify and locate faces in the user-provided image, subsequently enhancing the facial features by applying Gaussian blur.
+
+- #### **Features and Highlights**
+  >Face detection and position determination using OpenCV
+  >Application of Gaussian blur to achieve a smooth effect on facial features
+  >Additional functionality to rotate the facial regions, providing a creative twist to the visual effect
+  
  - ### **Description and Purpose of this Project**  
    > This project uses OpenCV and Python to detect faces in images and apply blur processing to the corresponding areas. It also goes through the process of flipping the face area and reinserting into the image. These functions can make it difficult to identify individuals, enhancing privacy and data stability. Therefore, it can be used to anonymize faces or protect sensitive information in images. This project provides information on face detection and various image processing, and presents a foundation for wider range of fields.
 
